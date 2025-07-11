@@ -4,21 +4,21 @@
 
 Esta aplicación de consola en Java permite a los usuarios convertir divisas entre diferentes monedas. Utiliza la API ExchangeRate-API para obtener las tasas de cambio en tiempo real y ofrece una interfaz de menú simple para seleccionar las monedas de origen y destino, así como la cantidad a convertir.
 
-## Indice
+## Índice
 * [Título e Imagen](#Título-e-imagen)
 * [Índice](#índice)
 * [Descripción del proyecto](#descripción-del-proyecto)
 * [Estado del proyecto](#Estado-del-proyecto)
-* [Características de la aplicación y demostración](#Características-de-la-aplicación-y-demostración)
-* [Acceso al proyecto/Abre y Ejecuta el proyecto](#acceso-proyecto-abre-y-ejecuta-el-proyecto)
+* [Características de la aplicación y demostración](#Funcionalidades-de-la-aplicacion)
+* [Acceso al proyecto/Abre y Ejecuta el proyecto](#acceso-al-proyecto)
 * [Tecnologías utilizadas](#tecnologías-utilizadas)
-* [Personas-Desarrolladores del Proyecto](#personas-desarrolladores)
+* [Personas-Desarrolladores del Proyecto](#Autores)
 
 ## Estado del Proyecto
 :white_check_mark: Proyecto Terminado :white_check_mark:
 
 
-## :hammer:Funcionalidades del proyecto
+## :hammer:Funcionalidades de la Aplicacion
 - `Conversión de Divisas`: Convierte entre un conjunto predefinido de monedas (USD, EUR, BRL, COP).
   
   <img width="561" height="433" alt="image" src="https://github.com/user-attachments/assets/7d2e5804-5a82-43c8-a278-3f5982a8ad98" />
