@@ -10,8 +10,8 @@ Esta aplicación de consola en Java permite a los usuarios convertir divisas ent
 * [Descripción del proyecto](#descripción-del-proyecto)
 * [Estado del proyecto](#Estado-del-proyecto)
 * [Características de la aplicación y demostración](#Funcionalidades-de-la-aplicacion)
-* [Acceso al proyecto/Abre y Ejecuta el proyecto](#acceso-al-proyecto)
-* [Tecnologías utilizadas](#tecnologías-utilizadas)
+* [Acceso al proyecto/Abre y Ejecuta el proyecto](#Acceso-al-proyecto)
+* [Tecnologías utilizadas](#Tecnologías-Utilizadas)
 * [Personas-Desarrolladores del Proyecto](#Autores)
 
 ## Estado del Proyecto
